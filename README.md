@@ -1,10 +1,11 @@
 # Portfolio-Optimization
 
-In this section, we briefly introduce the theories we applied in order to select an optimal portfolio. Modern Portfolio Theory states that by diversifying the portfolio, investors could find the highest expected return with any given level of volatility [1]. With this statement, we could find all the efficient portfolios that lies on the efficient frontier. Sharpe (1994) developed the Sharpe ratio which measures the risk (excess) return rate of the portfolio. Additionally, by combining the risk-free asset and the efficient portfolio that is on the efficient frontier, we could obtain the tangential portfolio where the Sharpe ratio is maximized and provides the best risk return trade off.
+In this section, we briefly introduce the principles we employed to choose an optimal portfolio. The Modern Portfolio Theory posits that through diversification, investors have the potential to achieve the highest expected return while maintaining a specific level of volatility [1]. With this concept, we can identify all the portfolios that are efficient and lie along the efficient frontier. Sharpe (1994) introduced the Sharpe ratio, a metric that quantifies the rate of risk-adjusted (excess) return for a portfolio. Moreover, by combining the risk-free asset with an efficient portfolio situated on the efficient frontier, we can derive the tangential portfolio, where the Sharpe ratio is maximized, offering the most favorable trade-off between risk and return.
 
-### Bibliography
-* Markowitz, H. (1952). Portfolio Selection. The Journal of Finance, 7(1), pp. 77-91.
-* Sharpe, W. F. (1994). The sharpe ratio. The Journal of Portfolio Management, 21(1), pp. 49-58.
+References:
+
+Markowitz, H. (1952). Portfolio Selection. The Journal of Finance, 7(1), pp. 77-91.
+Sharpe, W. F. (1994). The Sharpe Ratio. The Journal of Portfolio Management, 21(1), pp. 49-58.
 
 <img width="943" alt="Screenshot 2023-06-08 at 9 02 09 PM" src="https://github.com/HAKO411/Portfolio-Optimization/assets/61934483/d462e52f-0fa5-4968-990f-0a38678f1e00">
 
